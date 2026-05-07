@@ -2,7 +2,7 @@ fastapi
 uvicorn[standard]
 python-multipart
 pillow
-numpy==1.26.4
-tensorflow==2.19.0
+numpy
+tensorflow
 supabase
 python-dotenv
